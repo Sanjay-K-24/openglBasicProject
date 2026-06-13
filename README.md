@@ -9,8 +9,7 @@ and then
 (```python
 def greet_user():
     print("Hello, GitHub visitor!")
-```
-)
+```)
 
 ./main.exe
 
