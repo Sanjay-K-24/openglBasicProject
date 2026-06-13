@@ -6,10 +6,11 @@ g++ src/main.cpp src/glad.c -Iinclude -Llib -lglfw3dll -lopengl32 -lgdi32 -DGLFW
 
 and then
 
-(```python
-def greet_user():
-    print("Hello, GitHub visitor!")
-```)
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
 
 ./main.exe
 
