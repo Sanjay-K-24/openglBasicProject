@@ -2,17 +2,15 @@ this is a basic opengl file
 
 to run the file us this terminal command
 
+'''
 g++ src/main.cpp src/glad.c -Iinclude -Llib -lglfw3dll -lopengl32 -lgdi32 -DGLFW_DLL -o main
+'''
 
 and then
 
-```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
-```
-
+'''
 ./main.exe
+'''
 
 to run the file
 
