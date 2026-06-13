@@ -6,7 +6,11 @@ g++ src/main.cpp src/glad.c -Iinclude -Llib -lglfw3dll -lopengl32 -lgdi32 -DGLFW
 
 and then
 
-('''')
+(```python
+def greet_user():
+    print("Hello, GitHub visitor!")
+```
+)
 
 ./main.exe
 
