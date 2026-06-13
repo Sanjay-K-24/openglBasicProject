@@ -6,6 +6,8 @@ g++ src/main.cpp src/glad.c -Iinclude -Llib -lglfw3dll -lopengl32 -lgdi32 -DGLFW
 
 and then
 
+('''')
+
 ./main.exe
 
 to run the file
